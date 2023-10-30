@@ -4,7 +4,7 @@
 
 Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/)
 
-[Email](mailto:jonas.zeltner@posteo.de) / [Github](https://github.com/tungstnballon) / [Gitlab](https://gitlab.com/tungstnballon)
+[Email](mailto:jonas.zeltner@posteo.de) / [GitHub](https://github.com/tungstnballon) / [GitLab](https://gitlab.com/tungstnballon)
 
 ## Education
 
@@ -17,16 +17,16 @@ Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürn
 ## Experience
 
 **Intern** @ [ProLeit](https://www.proleit.com/) _(07.2016)_[^proleit]<br>
-Basic use of SIMATIC contollers and the STEP7 language. Process Control System 
+Basic use of SIMATIC controllers, the STEP7 language and Process Control Systems. 
 <br><br>
 
-**Project participant** @ [TechFak Fau](https://www.tf.fau.de/) _(04.2023 - 10.2023)_[^uni]<br>
-Helped develop the server backend for the next official Fau-App (not yet released).<br>
-Technologies used: Python, Django, REST, Open-Api, SQLite, Git, GitLab, Linux
+**Project participant** @ [Faculty of Engineering](https://www.tf.fau.eu/) _(04.2023 - 10.2023)_[^uni]<br>
+Developed the server backend for the next official Fau-App (not yet released).<br>
+Technologies used: Python, Django, REST, Open-API, SQLite, Git, GitLab, Linux
 <br><br>
 
 **Student** @ [FAU](https://www.fau.eu/) _(08.2019 - )_[^uni]<br>
-Studying at FAU has given me experience in these Technoloigies:<br>
+Studying at FAU has given me experience in these Technologies:<br>
 - Basic: C, Java, Scala, Python, Numpy, Subversion, Coq, Haskell
 - Advanced: Git, Linux
 <br><br>
@@ -39,7 +39,7 @@ Technologies used: Rust, cargo, crates.io
 <br>
 
 **Gnome extension** @ [extensions.gnome.org](https://extensions.gnome.org/extension/6340/gamemode-indicator-in-system-settings/)<br>
-Developed an extension for the Gnome Desktop Environment.<br>
+Developed the extension "GameMode Indicator in System-Settings" for the Gnome Desktop Environment.<br>
 Technologies used: JavaScript, eslint, npm
 <br><br>
 
@@ -51,7 +51,7 @@ Part of the team that organized the "Konfirmationstreffen". Included a Seminar i
 **Juror for "Jugend debattiert"** @ [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/) _(14.01.2023)_[^jury]<br>
 Part of the Jury that decided the local "Jugend debattiert" contest.
 
-**Paricipant in "Sozial und Fair"** @ [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/) _(2016/2017)_[^soz]<br>
+**Participant in "Sozial und Fair"** @ [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/) _(2017/2017)_[^soz]<br>
 Volunteered for homework assistance for elementary school students and communal gardening
 <br><br>
 
