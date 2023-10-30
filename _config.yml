@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jonas Zeltner CV 
+title: "WIP: THIS SITE IS UNDER CONSTRUCTION" # Jonas Zeltner CV
 email: jonas.zeltner@posteo.de
 description: >- # this means to ignore newlines until "baseurl:"
   The Ciriculum Vitae for Jonas Zeltner.
 baseurl: "/cv" # the subpath of your site, e.g. /blog
 url: "http://tungstnballon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: tungstnballon 
+github_username: tungstnballon
 
 # Build settings
 theme: minima

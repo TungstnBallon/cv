@@ -1,4 +1,4 @@
-# WIP: THIS SITE IS UNDER CONSTRUCTION
+<!-- comment for jekkyl -->
 
 # Jonas Zeltner
 
@@ -6,6 +6,7 @@ Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürn
 
 [Email](mailto:jonas.zeltner@posteo.de) / [GitHub](https://github.com/tungstnballon) / [GitLab](https://gitlab.com/tungstnballon)
 
+<br>
 ## Education
 
 **Abitur[^abi]**<br>
@@ -14,10 +15,11 @@ Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürn
 **Nine Semesters into a Bachelor of Science[^uni]**<br>
 [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/)
 
+<br>
 ## Experience
 
 **Intern** @ [ProLeit](https://www.proleit.com/) _(07.2016)_[^proleit]<br>
-Basic use of SIMATIC controllers, the STEP7 language and Process Control Systems. 
+Basic use of SIMATIC controllers, the STEP7 language and Process Control Systems.
 <br><br>
 
 **Project participant** @ [Faculty of Engineering](https://www.tf.fau.eu/) _(04.2023 - 10.2023)_[^uni]<br>
@@ -43,6 +45,7 @@ Developed the extension "GameMode Indicator in System-Settings" for the Gnome De
 Technologies used: JavaScript, eslint, npm
 <br><br>
 
+<br>
 ## Volunteering
 
 **Konfi-Teamer** @ [St. Josef Weisendorf](https://st-josef-weisendorf.de/) _(09.2015 - 03.2016)_[^konfi]<br>
@@ -56,6 +59,7 @@ Volunteered for homework assistance for elementary school students and communal 
 <br><br>
 
 
+<br>
 ## Other Skills
 
 ### Languages[^abi]
@@ -75,7 +79,12 @@ Volunteered for homework assistance for elementary school students and communal 
 - Ethics
 - Film
 - Gaming
+<br><br>
 
+<br>
+# ------------
+
+### Footnotes
 
 [^abi]: see abitur.pdf
 [^uni]: see university.pdf
