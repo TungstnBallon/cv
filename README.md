@@ -19,21 +19,31 @@ Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürn
 |-|-|
 | 09.2015 - 03.2016 | Seminar in Youth Work |
 | 18.01.2016 | Juror at "Jugend debattiert" |
-| 18.07.2016 - 22.07.2016 | Intern at [Proleit](https://www.proleit.com/) |
+| 18.07.2016 - 22.07.2016 | Internship at [Proleit](https://www.proleit.com/) |
 | 07.2017 | Participation in the "Sozial und Fair" Project |
 
-## Skills and Traits
+## Skills
+
+### Programming languages
+
+- Used Once: JavaScript
+- Basic: C, Java, Python
+- Intermediate: Rust
+
+### Tooling and Frameworks
+- Basic: Django
+- Advanced: Git
+
+### Languages
+- German (native)
+- English (C1)
+
+### Soft Skills
 
 - Critical Thinking
-- Calm in stressful situations
 - Problem solving
-- C1 English
-- Basic C, Java and Scala, Python and Numpy, Django
-- Intermediate Rust
 
 ### Interests beyond Computer Science
  - Politics
  - Ethics
- - Literature
  - Film
- - Video Games
