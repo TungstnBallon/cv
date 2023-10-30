@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "WIP: THIS SITE IS UNDER CONSTRUCTION" # Jonas Zeltner CV
+name: Jonas Zeltner
 email: jonas.zeltner@posteo.de
 description: >- # this means to ignore newlines until "baseurl:"
   The Ciriculum Vitae for Jonas Zeltner.
@@ -51,3 +52,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Set automatic light and dark theme
+minima:
+  skin: auto
+

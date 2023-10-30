@@ -5,34 +5,33 @@
 Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/)
 
 [Email](mailto:jonas.zeltner@posteo.de) / [GitHub](https://github.com/tungstnballon) / [GitLab](https://gitlab.com/tungstnballon)
+<br><br>
 
-<br>
-## Education
+---
+## 👨‍🎓 Education
 
 **Abitur[^abi]**<br>
 [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/)
 
 **Nine Semesters into a Bachelor of Science[^uni]**<br>
 [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/)
+<br><br>
 
-<br>
-## Experience
+---
+## 👨‍💻 Experience
 
 **Intern** @ [ProLeit](https://www.proleit.com/) _(07.2016)_[^proleit]<br>
 Basic use of SIMATIC controllers, the STEP7 language and Process Control Systems.
-<br><br>
 
 **Project participant** @ [Faculty of Engineering](https://www.tf.fau.eu/) _(04.2023 - 10.2023)_[^uni]<br>
 Developed the server backend for the next official Fau-App (not yet released).<br>
 Technologies used: Python, Django, REST, Open-API, SQLite, Git, GitLab, Linux
-<br><br>
 
 **Student** @ [FAU](https://www.fau.eu/) _(08.2019 - )_[^uni]<br>
 Studying at FAU has given me experience in these Technologies:<br>
 - Basic: C, Java, Scala, Python, Numpy, Subversion, Coq, Haskell
 - Advanced: Git, Linux
 <br><br>
-
 
 ### Public Projects
 
@@ -45,8 +44,8 @@ Developed the extension "GameMode Indicator in System-Settings" for the Gnome De
 Technologies used: JavaScript, eslint, npm
 <br><br>
 
-<br>
-## Volunteering
+---
+## 🙋‍♂️  Volunteering
 
 **Konfi-Teamer** @ [St. Josef Weisendorf](https://st-josef-weisendorf.de/) _(09.2015 - 03.2016)_[^konfi]<br>
 Part of the team that organized the "Konfirmationstreffen". Included a Seminar in Youth Work.<br>
@@ -58,9 +57,8 @@ Part of the Jury that decided the local "Jugend debattiert" contest.
 Volunteered for homework assistance for elementary school students and communal gardening
 <br><br>
 
-
-<br>
-## Other Skills
+---
+## 🏅 Other Skills
 
 ### Languages[^abi]
 
@@ -73,17 +71,18 @@ Volunteered for homework assistance for elementary school students and communal 
 - Critical thinking
 - Problem solving
 - Teamwork
+<br><br>
 
-## Interests beyond computer science
+---
+## 🔎 Interests beyond computer science
+
 - Politics
 - Ethics
 - Film
 - Gaming
 <br><br>
 
-<br>
-# ------------
-
+---
 ### Footnotes
 
 [^abi]: see abitur.pdf
