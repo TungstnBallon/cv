@@ -27,7 +27,7 @@ Basic use of SIMATIC controllers, the STEP7 language and Process Control Systems
 Developed the server backend for the next official Fau-App (not yet released).<br>
 Technologies used: Python, Django, REST, Open-API, SQLite, Git, GitLab, Linux
 
-**Student** @ [FAU](https://www.fau.eu/) _(08.2019 - )_[^uni]<br>
+**Student** @ [FAU](https://www.fau.eu/) _(since 08.2019)_[^uni]<br>
 Studying at FAU has given me experience in these Technologies:<br>
 - Basic: C, Java, Scala, Python, Numpy, Subversion, Coq, Haskell
 - Advanced: Git, Linux
