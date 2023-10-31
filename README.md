@@ -53,7 +53,7 @@ Part of the team that organized the "Konfirmationstreffen". Included a Seminar i
 **Juror for "Jugend debattiert"** @ [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/) _(14.01.2023)_[^jury]<br>
 Part of the Jury that decided the local "Jugend debattiert" contest.
 
-**Participant in "Sozial und Fair"** @ [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/) _(2017/2017)_[^soz]<br>
+**Participant in "Sozial und Fair"** @ [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/) _(2016/2017)_[^soz]<br>
 Volunteered for homework assistance for elementary school students and communal gardening
 <br><br>
 
