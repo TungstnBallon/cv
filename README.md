@@ -83,8 +83,6 @@ Volunteered for homework assistance for elementary school students and communal 
 <br><br>
 
 ---
-### Footnotes
-
 [^abi]: see abitur.pdf
 [^uni]: see university.pdf
 [^proleit]: see proleit.pdf
