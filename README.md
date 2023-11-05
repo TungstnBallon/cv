@@ -42,6 +42,14 @@ Technologies used: Rust, cargo, crates.io
 **Gnome extension** @ [extensions.gnome.org](https://extensions.gnome.org/extension/6340/gamemode-indicator-in-system-settings/)<br>
 Developed the extension "GameMode Indicator in System-Settings" for the Gnome Desktop Environment.<br>
 Technologies used: JavaScript, eslint, npm
+<br>
+
+**Witcher 3 mods** @ [nexusmods.com](https://www.nexusmods.com/witcher3/users/131379753?tab=user+files)<br>
+Technologies used: WitcherScript, blender, WolvenKit
+<br>
+
+**Red Dead Redemption 2 mod** @ [rdr2mods.com](https://www.rdr2mods.com/downloads/rdr2/other/158-only-legendary-hunting/]<br>
+Technologies used: Java, xml, OpenIV
 <br><br>
 
 ---
