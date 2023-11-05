@@ -48,7 +48,7 @@ Technologies used: JavaScript, eslint, npm
 Technologies used: WitcherScript, blender, WolvenKit
 <br>
 
-**Red Dead Redemption 2 mod** @ [rdr2mods.com](https://www.rdr2mods.com/downloads/rdr2/other/158-only-legendary-hunting/]<br>
+**Red Dead Redemption 2 mod** @ [rdr2mods.com](https://www.rdr2mods.com/downloads/rdr2/other/158-only-legendary-hunting/)<br>
 Technologies used: Java, xml, OpenIV
 <br><br>
 
