@@ -13,7 +13,7 @@ Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürn
 **Abitur[^abi]**<br>
 [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/)
 
-**Nine Semesters into a Bachelor of Science[^uni]**<br>
+**Ten Semesters into a Bachelor of Science[^uni]**<br>
 [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/)
 <br><br>
 
@@ -31,6 +31,11 @@ Technologies used: Python, Django, REST, Open-API, SQLite, Git, GitLab, Linux
 Studying at FAU has given me experience in these Technologies:<br>
 - Basic: C, Java, Scala, Python, Numpy, Subversion, Coq, Haskell
 - Advanced: Git, Linux
+
+**Student Researcher** @ [Professorship for Open-Source Software](https://oss.cs.fau.de/people/#collapse_3) _(since 04.2024)_<br>
+Working on the to the [Jayvee language](https://jvalue.github.io/jayvee/) with these Technologies:
+- Basic: Javascript, Bash, Github Workflow, esbuild, eslint, vitest, nx, lua (neovim support)
+- Advanced: Typescript
 <br><br>
 
 ### Public Projects
