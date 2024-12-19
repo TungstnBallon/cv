@@ -13,7 +13,7 @@ Computer Science Student at the [Friedrich-Alexander-Universität Erlangen-Nürn
 **Abitur[^abi]**<br>
 [Gymnasium Herzogenaurach](https://gymnasium-herzogenaurach.de/)
 
-**Ten Semesters into a Bachelor of Science[^uni]**<br>
+**Bachelor of Science[^uni]**<br>
 [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/)
 <br><br>
 
@@ -30,12 +30,12 @@ Technologies used: Python, Django, REST, Open-API, SQLite, Git, GitLab, Linux
 **Student** @ [FAU](https://www.fau.eu/) _(since 08.2019)_[^uni]<br>
 Studying at FAU has given me experience in these Technologies:<br>
 - Basic: C, Java, Scala, Python, Numpy, Subversion, Coq, Haskell
-- Advanced: Git, Linux
+- Advanced: Git, Linux, Jayvee
 
 **Student Researcher** @ [Professorship for Open-Source Software](https://oss.cs.fau.de/people/#collapse_3) _(since 04.2024)_<br>
 Working on the to the [Jayvee language](https://jvalue.github.io/jayvee/) with these Technologies:
 - Basic: Javascript, Bash, Github Workflow, esbuild, eslint, vitest, nx, lua (neovim support)
-- Advanced: Typescript
+- Advanced: Typescript, Jayvee
 <br><br>
 
 ### Public Projects
@@ -56,6 +56,9 @@ Technologies used: WitcherScript, blender, WolvenKit
 **Red Dead Redemption 2 mod** @ [rdr2mods.com](https://www.rdr2mods.com/downloads/rdr2/other/158-only-legendary-hunting/)<br>
 Technologies used: Java, xml, OpenIV
 <br><br>
+
+**Advent of Code 2024** @ [gitlab.com](https://gitlab.com/TungstnBallon/aoc2024)<br>
+Technologies used: Git, Rust, cargo, neovim
 
 ---
 ## 🙋‍♂️  Volunteering
