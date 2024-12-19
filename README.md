@@ -55,10 +55,11 @@ Technologies used: WitcherScript, blender, WolvenKit
 
 **Red Dead Redemption 2 mod** @ [rdr2mods.com](https://www.rdr2mods.com/downloads/rdr2/other/158-only-legendary-hunting/)<br>
 Technologies used: Java, xml, OpenIV
-<br><br>
+<br>
 
 **Advent of Code 2024** @ [gitlab.com](https://gitlab.com/TungstnBallon/aoc2024)<br>
 Technologies used: Git, Rust, cargo, neovim
+<br><br>
 
 ---
 ## 🙋‍♂️  Volunteering
